@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Libstack</string>
+    <string name="scan_book">Scan Book</string>
+    <string name="scan_idcard">Scan ID Card</string>
+    <string name="exit">Exit</string>
+    <string name="successful">Successful</string>
+</resources>
